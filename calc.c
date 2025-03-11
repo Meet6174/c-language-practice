@@ -33,7 +33,7 @@ int main()
         }
         else
         {
-            printf("the denominator can't be a zero");
+            printf("the denominator can't be a zero please give the input again");
 
         }
        
