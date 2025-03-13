@@ -3,7 +3,7 @@
 int main()
 {
 int n=2;
-printf("enter the val of n :");
+//printf("enter the value of n :");
 // scanf("%d",&n);
 int *ptr= (int*)malloc(n*sizeof(n));
 ptr[0]=1;
