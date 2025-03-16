@@ -27,9 +27,6 @@ int main()
                 printf(" ");
             case 8:
                 printf(" ");
-            case 9:
-                printf(" ");
-
             }
         for(j=0;j<a;j++)
         {
