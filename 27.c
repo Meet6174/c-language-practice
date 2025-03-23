@@ -3,7 +3,7 @@
 int main()
 {
     int n;
-char st[]="abc";
+char st[]="abcde";
 char st1[10];
 strcpy(st1,st);
 strcat(st1,st);
