@@ -11,7 +11,7 @@ int main()
     f = b*b*b + c*c*c + d*d*d; 
     if(num == f)
     {
-        printf("%d.\n",num);
+        printf("%d is armstrong number.\n",num);
     }  
     } 
     return 0;
