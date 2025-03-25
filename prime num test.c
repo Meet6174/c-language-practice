@@ -16,7 +16,7 @@ int main()
      }
      if(g ==0)
      {
-        printf("this num is prime num");
+        printf("this num is prime num :");
      }
      getch();
      return 0;
