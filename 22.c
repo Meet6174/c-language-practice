@@ -16,7 +16,7 @@ int main()
     }
    else
     {
-        printf(" citiezen");
+        printf(" you are not cenear citiezen");
     }
     return 0;
 }
