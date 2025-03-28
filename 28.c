@@ -11,7 +11,7 @@ int main()
   struct student st1,student2;
   st1.rollno =56;
   st1.grade=45.6;
-  strcpy(st1.name,"rahil");
+  strcpy(st1.name,"Meet");
   student2.rollno =36;
   student2.grade=55.6;
   strcpy(student2.name,"kashap");
